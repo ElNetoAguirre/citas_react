@@ -1,0 +1,3 @@
+cd citas-react
+
+npm run dev
